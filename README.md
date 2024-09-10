@@ -3,32 +3,31 @@ Welcome to my collection of HTML projects! This repository includes various proj
 
 
 ## Table of Contents
-1. [Pure HTML Projects]
-2. [HTML & CSS Combined Projects]
-3. [How to Use]
-4. [Contributing]
-5. [License]
+1. Pure HTML Projects
+2. HTML & CSS Combined Projects
+3. License
+4. Feedback
 
 
 ## Pure HTML Projects
 These projects are created using pure HTML. They focus on basic HTML structure and elements.
 
-1. **Basic HTML Resume**
-2. **HTML Quiz Page**
-3. **Recipe Page**
-4. **Contact Directory**
-5. **Travel Itinerary Page**
+1. Basic HTML Resume
+2. HTML Quiz Page
+3. Recipe Page
+4. Contact Directory
+5. Travel Itinerary Page
 
 
 ## HTML and CSS Combined Projects
 
 These projects use both HTML and CSS to create more styled and interactive web pages.
 
-1. **Personal Portfolio Website**
-2. **Simple Blog Page**
-3. **Landing Page for a Product or Service**
-4. **Photo Gallery**
-5. **Restaurant Menu**
+1. Personal Portfolio Website
+2. Simple Blog Page
+3. Landing Page for a Product or Service
+4. Photo Gallery
+5. Restaurant Menu
 
 ## License
 
